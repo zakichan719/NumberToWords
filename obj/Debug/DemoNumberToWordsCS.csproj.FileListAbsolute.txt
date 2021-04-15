@@ -1,0 +1,13 @@
+C:\Users\DELL\Downloads\emoreau-DemoNumberToWords\DemoNumberToWords\DemoNumberToWordsCS\bin\Debug\DemoNumberToWordsCS.exe.config
+C:\Users\DELL\Downloads\emoreau-DemoNumberToWords\DemoNumberToWords\DemoNumberToWordsCS\bin\Debug\DemoNumberToWordsCS.exe
+C:\Users\DELL\Downloads\emoreau-DemoNumberToWords\DemoNumberToWords\DemoNumberToWordsCS\bin\Debug\DemoNumberToWordsCS.pdb
+C:\Users\DELL\Downloads\emoreau-DemoNumberToWords\DemoNumberToWords\DemoNumberToWordsCS\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\DELL\Downloads\emoreau-DemoNumberToWords\DemoNumberToWords\DemoNumberToWordsCS\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\DELL\Downloads\emoreau-DemoNumberToWords\DemoNumberToWords\DemoNumberToWordsCS\obj\Debug\DemoNumberToWordsCS.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\emoreau-DemoNumberToWords\DemoNumberToWords\DemoNumberToWordsCS\obj\Debug\DemoNumberToWords.Form1.resources
+C:\Users\DELL\Downloads\emoreau-DemoNumberToWords\DemoNumberToWords\DemoNumberToWordsCS\obj\Debug\DemoNumberToWords.Properties.Resources.resources
+C:\Users\DELL\Downloads\emoreau-DemoNumberToWords\DemoNumberToWords\DemoNumberToWordsCS\obj\Debug\DemoNumberToWordsCS.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\emoreau-DemoNumberToWords\DemoNumberToWords\DemoNumberToWordsCS\obj\Debug\DemoNumberToWordsCS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\emoreau-DemoNumberToWords\DemoNumberToWords\DemoNumberToWordsCS\obj\Debug\DemoNumberToWordsCS.csproj.CopyComplete
+C:\Users\DELL\Downloads\emoreau-DemoNumberToWords\DemoNumberToWords\DemoNumberToWordsCS\obj\Debug\DemoNumberToWordsCS.exe
+C:\Users\DELL\Downloads\emoreau-DemoNumberToWords\DemoNumberToWords\DemoNumberToWordsCS\obj\Debug\DemoNumberToWordsCS.pdb
